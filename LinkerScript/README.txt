@@ -1,0 +1,1 @@
+Linker script file to copy in the main directory

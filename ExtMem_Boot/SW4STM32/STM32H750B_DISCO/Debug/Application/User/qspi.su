@@ -1,0 +1,3 @@
+C:/Users/toussaij/STM32Cube/Repository/STM32Cube_FW_H7_V1.10.0/Projects/STM32H750B-DK/Templates/ExtMem_Boot/Src/qspi.c:481:17:QSPI_AutoPollingMemReady.constprop	88	static
+C:/Users/toussaij/STM32Cube/Repository/STM32Cube_FW_H7_V1.10.0/Projects/STM32H750B-DK/Templates/ExtMem_Boot/Src/qspi.c:435:17:QSPI_WriteEnable.constprop	88	static
+C:/Users/toussaij/STM32Cube/Repository/STM32Cube_FW_H7_V1.10.0/Projects/STM32H750B-DK/Templates/ExtMem_Boot/Src/qspi.c:81:10:QSPI_Startup	136	static,ignoring_inline_asm

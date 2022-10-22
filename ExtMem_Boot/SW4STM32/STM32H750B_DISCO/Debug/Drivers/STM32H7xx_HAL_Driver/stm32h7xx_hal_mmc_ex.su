@@ -1,0 +1,4 @@
+C:/Users/toussaij/STM32Cube/Repository/STM32Cube_FW_H7_V1.10.0/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_mmc_ex.c:86:19:HAL_MMCEx_ConfigDMAMultiBuffer	8	static
+C:/Users/toussaij/STM32Cube/Repository/STM32Cube_FW_H7_V1.10.0/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_mmc_ex.c:112:19:HAL_MMCEx_ReadBlocksDMAMultiBuffer	48	static
+C:/Users/toussaij/STM32Cube/Repository/STM32Cube_FW_H7_V1.10.0/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_mmc_ex.c:215:19:HAL_MMCEx_WriteBlocksDMAMultiBuffer	48	static
+C:/Users/toussaij/STM32Cube/Repository/STM32Cube_FW_H7_V1.10.0/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_mmc_ex.c:319:19:HAL_MMCEx_ChangeDMABuffer	0	static
